@@ -1,0 +1,14 @@
+{
+  "5": {
+    "BookID": "5",
+    "MemberID": "100",
+    "ReservationDate": "2023-08-19",
+    "Availability": "Reserved"
+  },
+  "6": {
+    "BookID": "6",
+    "MemberID": "100",
+    "ReservationDate": null,
+    "Availability": "Available for loan"
+  }
+}
